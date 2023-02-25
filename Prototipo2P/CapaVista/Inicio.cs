@@ -1,5 +1,4 @@
-﻿// Autor: Velvet
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -11,31 +10,23 @@ using System.Windows.Forms;
 
 namespace CapaVista
 {
-    public partial class Pasaporte : Form
+    public partial class Inicio : Form
     {
-        public Pasaporte()
+        public Inicio()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void Pasaporte_Load(object sender, EventArgs e)
-        {
-
+            MenuAdministrativo m = new MenuAdministrativo();
+            m.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
+            MenuCiudadano m = new MenuCiudadano();
+            m.Show();
         }
     }
 }

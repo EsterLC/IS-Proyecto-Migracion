@@ -25,12 +25,21 @@ C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaCon
 C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
 C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.dll
 C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.pdb
-C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.dll
-C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.pdb
-C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.dll
-C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.pdb
-C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
-C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
-C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
-C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.dll
-C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\linri\Desktop\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\linri\Desktop\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\linri\Desktop\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\linri\Desktop\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\linri\Desktop\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\linri\Desktop\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\linri\Desktop\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.pdb

@@ -57,6 +57,7 @@ namespace CapaVista
             this.registroDeDatosToolStripMenuItem.Name = "registroDeDatosToolStripMenuItem";
             this.registroDeDatosToolStripMenuItem.Size = new System.Drawing.Size(180, 29);
             this.registroDeDatosToolStripMenuItem.Text = "Registro de Datos";
+            this.registroDeDatosToolStripMenuItem.Click += new System.EventHandler(this.registroDeDatosToolStripMenuItem_Click);
             // 
             // validaciónDeDatosToolStripMenuItem
             // 
@@ -86,6 +87,7 @@ namespace CapaVista
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "MenuAdministrativo";
             this.Text = "MenuAdministrativo";
+            this.Load += new System.EventHandler(this.MenuAdministrativo_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

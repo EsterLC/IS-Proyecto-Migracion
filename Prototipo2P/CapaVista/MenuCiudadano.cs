@@ -19,16 +19,12 @@ namespace CapaVista
 
         private void bancosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Bancos b = new Bancos();
-            b.MdiParent = this;
-            b.Show();
+
         }
 
         private void controlChequesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Control_de_Cheques b = new Control_de_Cheques();
-            b.MdiParent = this;
-            b.Show();
+
         }
 
         private void Menu_Load(object sender, EventArgs e)
@@ -39,6 +35,39 @@ namespace CapaVista
         private void abrirToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void catalogosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void citaParaMayoresDeEdadToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Citas_Mayores emPas = new Citas_Mayores();
+            emPas.MdiParent = this;
+            emPas.Show();
+        }
+
+        private void citaParaMenoresDeEdadToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Citas_Menores emPas = new Citas_Menores();
+            emPas.MdiParent = this;
+            emPas.Show();
+        }
+
+        private void cancelaciónDeCitaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CancelacionCita emPas = new CancelacionCita();
+            emPas.MdiParent = this;
+            emPas.Show();
+        }
+
+        private void reprogramarCitaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ReprogramarCita emPas = new ReprogramarCita();
+            emPas.MdiParent = this;
+            emPas.Show();
         }
     }
 }

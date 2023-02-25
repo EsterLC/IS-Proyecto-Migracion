@@ -10,3 +10,9 @@ C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaMod
 C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
 C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.dll
 C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.pdb

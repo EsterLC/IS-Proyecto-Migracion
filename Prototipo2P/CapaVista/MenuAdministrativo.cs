@@ -24,5 +24,22 @@ namespace CapaVista
             emPas.MdiParent = this;
             emPas.Show();
         }
+
+        private void registroDeDatosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form1 m = new Form1();
+            m.MdiParent = this;
+            m.Show();
+        }
+
+        private void MenuAdministrativo_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void regresarAInicioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+       
+        }
     }
 }

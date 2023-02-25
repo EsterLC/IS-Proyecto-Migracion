@@ -1,67 +1,12 @@
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.exe.config
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.exe
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.pdb
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\CapaVista.dll
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\CapaControlador.dll
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\CapaModelo.dll
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\CapaVista.pdb
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\CapaControlador.pdb
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\CapaModelo.pdb
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.AssemblyReference.cache
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.Properties.Resources.resources
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.GenerateResource.cache
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.CoreCompileInputs.cache
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.CopyComplete
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.exe
-C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.pdb
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.exe.config
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.exe
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.pdb
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\CapaVista.dll
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\CapaControlador.dll
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\CapaModelo.dll
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\CapaVista.pdb
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\CapaControlador.pdb
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\bin\Debug\CapaModelo.pdb
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csprojAssemblyReference.cache
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.Properties.Resources.resources
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.GenerateResource.cache
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.CoreCompileInputs.cache
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.CopyComplete
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.exe
-C:\Users\Home\Downloads\Parcial Serie 3\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.pdb
-<<<<<<< HEAD
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.exe.config
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.exe
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.pdb
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaVista.dll
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaControlador.dll
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaModelo.dll
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaVista.pdb
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaControlador.pdb
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaModelo.pdb
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csprojAssemblyReference.cache
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.Properties.Resources.resources
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.GenerateResource.cache
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.CoreCompileInputs.cache
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.CopyComplete
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.exe
-C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.pdb
-=======
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.exe.config
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.exe
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.pdb
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaVista.dll
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaControlador.dll
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaModelo.dll
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaVista.pdb
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaControlador.pdb
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaModelo.pdb
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.AssemblyReference.cache
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.Properties.Resources.resources
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.GenerateResource.cache
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.CoreCompileInputs.cache
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.CopyComplete
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.exe
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.pdb
->>>>>>> 6543a97767c107a18fa4540022e2e6dade34f25e
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.exe.config
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.exe
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\EjecutarBan.pdb
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaVista.dll
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\EjecutarBan\EjecutarBan\bin\Debug\CapaVista.pdb
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.Properties.Resources.resources
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.GenerateResource.cache
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.CoreCompileInputs.cache
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.CopyComplete
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.exe
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.pdb
+C:\Users\ester\Downloads\proyecto migracion original\proyecto migracion original\Proyecto-Migracion\EjecutarBan\EjecutarBan\obj\Debug\EjecutarBan.csproj.AssemblyReference.cache

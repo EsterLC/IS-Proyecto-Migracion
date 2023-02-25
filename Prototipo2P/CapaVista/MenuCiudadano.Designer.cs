@@ -30,87 +30,68 @@ namespace CapaVista
         private void InitializeComponent()
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.abrirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.catalogosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.bancosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.procesosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.controlChequesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.informesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.herramientasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.solicitudDeCitasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.citaParaMayoresDeEdadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.citaParaMenoresDeEdadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cancelaciónDeCitaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.reprogramarCitaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
             // 
+            this.menuStrip1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(76)))), ((int)(((byte)(95)))));
+            this.menuStrip1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.abrirToolStripMenuItem,
-            this.catalogosToolStripMenuItem,
-            this.procesosToolStripMenuItem,
-            this.informesToolStripMenuItem,
-            this.herramientasToolStripMenuItem,
-            this.ayudaToolStripMenuItem});
+            this.solicitudDeCitasToolStripMenuItem,
+            this.cancelaciónDeCitaToolStripMenuItem,
+            this.reprogramarCitaToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(941, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(941, 33);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
-            // abrirToolStripMenuItem
+            // solicitudDeCitasToolStripMenuItem
             // 
-            this.abrirToolStripMenuItem.Name = "abrirToolStripMenuItem";
-            this.abrirToolStripMenuItem.Size = new System.Drawing.Size(56, 24);
-            this.abrirToolStripMenuItem.Text = "Abrir";
-            this.abrirToolStripMenuItem.Click += new System.EventHandler(this.abrirToolStripMenuItem_Click);
+            this.solicitudDeCitasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.citaParaMayoresDeEdadToolStripMenuItem,
+            this.citaParaMenoresDeEdadToolStripMenuItem});
+            this.solicitudDeCitasToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.solicitudDeCitasToolStripMenuItem.Name = "solicitudDeCitasToolStripMenuItem";
+            this.solicitudDeCitasToolStripMenuItem.Size = new System.Drawing.Size(177, 29);
+            this.solicitudDeCitasToolStripMenuItem.Text = "Solicitud de Citas";
             // 
-            // catalogosToolStripMenuItem
+            // citaParaMayoresDeEdadToolStripMenuItem
             // 
-            this.catalogosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.bancosToolStripMenuItem});
-            this.catalogosToolStripMenuItem.Name = "catalogosToolStripMenuItem";
-            this.catalogosToolStripMenuItem.Size = new System.Drawing.Size(90, 24);
-            this.catalogosToolStripMenuItem.Text = "Catalogos";
+            this.citaParaMayoresDeEdadToolStripMenuItem.Name = "citaParaMayoresDeEdadToolStripMenuItem";
+            this.citaParaMayoresDeEdadToolStripMenuItem.Size = new System.Drawing.Size(337, 30);
+            this.citaParaMayoresDeEdadToolStripMenuItem.Text = "Cita para Mayores de Edad";
+            this.citaParaMayoresDeEdadToolStripMenuItem.Click += new System.EventHandler(this.citaParaMayoresDeEdadToolStripMenuItem_Click);
             // 
-            // bancosToolStripMenuItem
+            // citaParaMenoresDeEdadToolStripMenuItem
             // 
-            this.bancosToolStripMenuItem.Name = "bancosToolStripMenuItem";
-            this.bancosToolStripMenuItem.Size = new System.Drawing.Size(139, 26);
-            this.bancosToolStripMenuItem.Text = "Bancos";
-            this.bancosToolStripMenuItem.Click += new System.EventHandler(this.bancosToolStripMenuItem_Click);
+            this.citaParaMenoresDeEdadToolStripMenuItem.Name = "citaParaMenoresDeEdadToolStripMenuItem";
+            this.citaParaMenoresDeEdadToolStripMenuItem.Size = new System.Drawing.Size(337, 30);
+            this.citaParaMenoresDeEdadToolStripMenuItem.Text = "Cita para Menores de Edad";
+            this.citaParaMenoresDeEdadToolStripMenuItem.Click += new System.EventHandler(this.citaParaMenoresDeEdadToolStripMenuItem_Click);
             // 
-            // procesosToolStripMenuItem
+            // cancelaciónDeCitaToolStripMenuItem
             // 
-            this.procesosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.controlChequesToolStripMenuItem});
-            this.procesosToolStripMenuItem.Name = "procesosToolStripMenuItem";
-            this.procesosToolStripMenuItem.Size = new System.Drawing.Size(81, 24);
-            this.procesosToolStripMenuItem.Text = "Procesos";
+            this.cancelaciónDeCitaToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.cancelaciónDeCitaToolStripMenuItem.Name = "cancelaciónDeCitaToolStripMenuItem";
+            this.cancelaciónDeCitaToolStripMenuItem.Size = new System.Drawing.Size(202, 29);
+            this.cancelaciónDeCitaToolStripMenuItem.Text = "Cancelación de Cita";
+            this.cancelaciónDeCitaToolStripMenuItem.Click += new System.EventHandler(this.cancelaciónDeCitaToolStripMenuItem_Click);
             // 
-            // controlChequesToolStripMenuItem
+            // reprogramarCitaToolStripMenuItem
             // 
-            this.controlChequesToolStripMenuItem.Name = "controlChequesToolStripMenuItem";
-            this.controlChequesToolStripMenuItem.Size = new System.Drawing.Size(201, 26);
-            this.controlChequesToolStripMenuItem.Text = "Control Cheques";
-            this.controlChequesToolStripMenuItem.Click += new System.EventHandler(this.controlChequesToolStripMenuItem_Click);
-            // 
-            // informesToolStripMenuItem
-            // 
-            this.informesToolStripMenuItem.Name = "informesToolStripMenuItem";
-            this.informesToolStripMenuItem.Size = new System.Drawing.Size(81, 24);
-            this.informesToolStripMenuItem.Text = "Informes";
-            // 
-            // herramientasToolStripMenuItem
-            // 
-            this.herramientasToolStripMenuItem.Name = "herramientasToolStripMenuItem";
-            this.herramientasToolStripMenuItem.Size = new System.Drawing.Size(112, 24);
-            this.herramientasToolStripMenuItem.Text = "Herramientas";
-            // 
-            // ayudaToolStripMenuItem
-            // 
-            this.ayudaToolStripMenuItem.Name = "ayudaToolStripMenuItem";
-            this.ayudaToolStripMenuItem.Size = new System.Drawing.Size(65, 24);
-            this.ayudaToolStripMenuItem.Text = "Ayuda";
+            this.reprogramarCitaToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.reprogramarCitaToolStripMenuItem.Name = "reprogramarCitaToolStripMenuItem";
+            this.reprogramarCitaToolStripMenuItem.Size = new System.Drawing.Size(179, 29);
+            this.reprogramarCitaToolStripMenuItem.Text = "Reprogramar Cita";
+            this.reprogramarCitaToolStripMenuItem.Click += new System.EventHandler(this.reprogramarCitaToolStripMenuItem_Click);
             // 
             // MenuCiudadano
             // 
@@ -121,7 +102,7 @@ namespace CapaVista
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "MenuCiudadano";
-            this.Text = "Ricardo_Miranda_0901-09-3269";
+            this.Text = "Menu Ciudadano";
             this.Load += new System.EventHandler(this.Menu_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
@@ -131,15 +112,11 @@ namespace CapaVista
         }
 
         #endregion
-
         private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem abrirToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem catalogosToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem procesosToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem informesToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem herramientasToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ayudaToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem bancosToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem controlChequesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem solicitudDeCitasToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem citaParaMayoresDeEdadToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem citaParaMenoresDeEdadToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem cancelaciónDeCitaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem reprogramarCitaToolStripMenuItem;
     }
 }

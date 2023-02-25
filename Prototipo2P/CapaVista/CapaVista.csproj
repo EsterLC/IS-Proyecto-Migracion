@@ -53,11 +53,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bancos.cs">
+    <Compile Include="CancelacionCita.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Bancos.Designer.cs">
-      <DependentUpon>Bancos.cs</DependentUpon>
+    <Compile Include="CancelacionCita.Designer.cs">
+      <DependentUpon>CancelacionCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Centro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Centro.Designer.cs">
+      <DependentUpon>Centro.cs</DependentUpon>
     </Compile>
     <Compile Include="Citas_Mayores.cs">
       <SubType>Form</SubType>
@@ -71,35 +77,35 @@
     <Compile Include="Citas_Menores.Designer.cs">
       <DependentUpon>Citas_Menores.cs</DependentUpon>
     </Compile>
-    <Compile Include="Conciliacion.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Conciliacion.Designer.cs">
-      <DependentUpon>Conciliacion.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Control de Cheques.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Control de Cheques.Designer.cs">
-      <DependentUpon>Control de Cheques.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Cuentas_Clientes.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Cuentas_Clientes.Designer.cs">
-      <DependentUpon>Cuentas_Clientes.cs</DependentUpon>
-    </Compile>
     <Compile Include="EmisionPasaporte.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="EmisionPasaporte.Designer.cs">
       <DependentUpon>EmisionPasaporte.cs</DependentUpon>
     </Compile>
-    <Compile Include="Registro De Datos.cs">
+    <Compile Include="Fecha y Hora.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Registro De Datos.Designer.cs">
-      <DependentUpon>Registro De Datos.cs</DependentUpon>
+    <Compile Include="Fecha y Hora.Designer.cs">
+      <DependentUpon>Fecha y Hora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio de sesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio de sesion.Designer.cs">
+      <DependentUpon>Inicio de sesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroDatos.Designer.cs">
+      <DependentUpon>RegistroDatos.cs</DependentUpon>
     </Compile>
     <Compile Include="MenuAdministrativo.cs">
       <SubType>Form</SubType>
@@ -113,34 +119,25 @@
     <Compile Include="MenuCiudadano.Designer.cs">
       <DependentUpon>MenuCiudadano.cs</DependentUpon>
     </Compile>
-    <Compile Include="Movimientos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Movimientos.Designer.cs">
-      <DependentUpon>Movimientos.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Pasaporte.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Pasaporte.Designer.cs">
-      <DependentUpon>Pasaporte.cs</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="Reportes.cs">
+    <Compile Include="ReprogramarCita.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Reportes.Designer.cs">
-      <DependentUpon>Reportes.cs</DependentUpon>
+    <Compile Include="ReprogramarCita.Designer.cs">
+      <DependentUpon>ReprogramarCita.cs</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Bancos.resx">
-      <DependentUpon>Bancos.cs</DependentUpon>
+    <EmbeddedResource Include="CancelacionCita.resx">
+      <DependentUpon>CancelacionCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Centro.resx">
+      <DependentUpon>Centro.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Citas_Mayores.resx">
       <DependentUpon>Citas_Mayores.cs</DependentUpon>
@@ -148,17 +145,17 @@
     <EmbeddedResource Include="Citas_Menores.resx">
       <DependentUpon>Citas_Menores.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Conciliacion.resx">
-      <DependentUpon>Conciliacion.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Control de Cheques.resx">
-      <DependentUpon>Control de Cheques.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Cuentas_Clientes.resx">
-      <DependentUpon>Cuentas_Clientes.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="EmisionPasaporte.resx">
       <DependentUpon>EmisionPasaporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fecha y Hora.resx">
+      <DependentUpon>Fecha y Hora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio de sesion.resx">
+      <DependentUpon>Inicio de sesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MenuAdministrativo.resx">
       <DependentUpon>MenuAdministrativo.cs</DependentUpon>
@@ -166,21 +163,15 @@
     <EmbeddedResource Include="MenuCiudadano.resx">
       <DependentUpon>MenuCiudadano.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Movimientos.resx">
-      <DependentUpon>Movimientos.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Pasaporte.resx">
-      <DependentUpon>Pasaporte.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Registro De Datos.resx">
-      <DependentUpon>Registro De Datos.cs</DependentUpon>
+    <EmbeddedResource Include="RegistroDatos.resx">
+      <DependentUpon>RegistroDatos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Reportes.resx">
-      <DependentUpon>Reportes.cs</DependentUpon>
+    <EmbeddedResource Include="ReprogramarCita.resx">
+      <DependentUpon>ReprogramarCita.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

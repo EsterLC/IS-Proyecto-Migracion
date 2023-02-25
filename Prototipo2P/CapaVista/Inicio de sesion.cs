@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CapaVista
 {
-    public partial class Cuentas_Clientes : Form
+    public partial class Inicio_de_sesion : Form
     {
-        public Cuentas_Clientes()
+        public Inicio_de_sesion()
         {
             InitializeComponent();
         }

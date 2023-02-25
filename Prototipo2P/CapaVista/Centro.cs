@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CapaVista
 {
-    public partial class Conciliacion : Form
+    public partial class Centro : Form
     {
-        public Conciliacion()
+        public Centro()
         {
             InitializeComponent();
         }

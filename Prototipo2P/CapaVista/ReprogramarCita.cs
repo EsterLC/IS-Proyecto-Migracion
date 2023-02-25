@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace CapaVista
 {
-    public partial class Reportes : Form
+    public partial class ReprogramarCita : Form
     {
-        public Reportes()
+        public ReprogramarCita()
         {
             InitializeComponent();
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

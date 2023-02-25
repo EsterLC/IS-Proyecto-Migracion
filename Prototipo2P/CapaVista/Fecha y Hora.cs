@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CapaVista
 {
-    public partial class Movimientos : Form
+    public partial class Fecha_y_Hora : Form
     {
-        public Movimientos()
+        public Fecha_y_Hora()
         {
             InitializeComponent();
         }
