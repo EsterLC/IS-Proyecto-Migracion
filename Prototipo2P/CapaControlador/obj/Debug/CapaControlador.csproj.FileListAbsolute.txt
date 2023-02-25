@@ -1,0 +1,36 @@
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.pdb

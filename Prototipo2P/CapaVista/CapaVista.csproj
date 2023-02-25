@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7F613ADF-9FAB-48EE-A7FA-36079CEF4307}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaVista</RootNamespace>
+    <AssemblyName>CapaVista</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CapaControlador">
+      <HintPath>..\CapaControlador\bin\Debug\CapaControlador.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaModelo">
+      <HintPath>..\CapaModelo\bin\Debug\CapaModelo.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaVista, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\bin\Debug\CapaVista.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bancos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bancos.Designer.cs">
+      <DependentUpon>Bancos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Citas_Mayores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Citas_Mayores.Designer.cs">
+      <DependentUpon>Citas_Mayores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Citas_Menores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Citas_Menores.Designer.cs">
+      <DependentUpon>Citas_Menores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conciliacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conciliacion.Designer.cs">
+      <DependentUpon>Conciliacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control de Cheques.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Control de Cheques.Designer.cs">
+      <DependentUpon>Control de Cheques.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cuentas_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cuentas_Clientes.Designer.cs">
+      <DependentUpon>Cuentas_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmisionPasaporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmisionPasaporte.Designer.cs">
+      <DependentUpon>EmisionPasaporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registro De Datos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro De Datos.Designer.cs">
+      <DependentUpon>Registro De Datos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrativo.Designer.cs">
+      <DependentUpon>MenuAdministrativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuCiudadano.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuCiudadano.Designer.cs">
+      <DependentUpon>MenuCiudadano.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos.Designer.cs">
+      <DependentUpon>Movimientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pasaporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pasaporte.Designer.cs">
+      <DependentUpon>Pasaporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes.Designer.cs">
+      <DependentUpon>Reportes.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Bancos.resx">
+      <DependentUpon>Bancos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Citas_Mayores.resx">
+      <DependentUpon>Citas_Mayores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Citas_Menores.resx">
+      <DependentUpon>Citas_Menores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conciliacion.resx">
+      <DependentUpon>Conciliacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control de Cheques.resx">
+      <DependentUpon>Control de Cheques.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cuentas_Clientes.resx">
+      <DependentUpon>Cuentas_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmisionPasaporte.resx">
+      <DependentUpon>EmisionPasaporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrativo.resx">
+      <DependentUpon>MenuAdministrativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuCiudadano.resx">
+      <DependentUpon>MenuCiudadano.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos.resx">
+      <DependentUpon>Movimientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pasaporte.resx">
+      <DependentUpon>Pasaporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro De Datos.resx">
+      <DependentUpon>Registro De Datos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes.resx">
+      <DependentUpon>Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

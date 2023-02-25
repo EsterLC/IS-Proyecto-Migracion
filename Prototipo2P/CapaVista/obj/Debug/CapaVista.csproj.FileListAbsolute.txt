@@ -1,0 +1,122 @@
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.Bancos.resources
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.Conciliacion.resources
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.Control_de_Cheques.resources
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.Cuentas_Clientes.resources
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.Menu.resources
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.Movimientos.resources
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.Reportes.resources
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\richa\OneDrive\Escritorio\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.Bancos.resources
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.Conciliacion.resources
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.Control_de_Cheques.resources
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.Cuentas_Clientes.resources
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.Menu.resources
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.Movimientos.resources
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.Pasaporte.resources
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.Reportes.resources
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Home\Downloads\Parcial Serie 3\Prototipo2P\CapaVista\obj\Debug\CapaVista.pdb
+<<<<<<< HEAD
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Bancos.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Conciliacion.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Control_de_Cheques.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Cuentas_Clientes.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Menu.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Movimientos.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Pasaporte.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Reportes.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Citas_Mayores.resources
+C:\Users\Home\Desktop\Proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Citas_Menores.resources
+=======
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Bancos.resources
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Conciliacion.resources
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Control_de_Cheques.resources
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Cuentas_Clientes.resources
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Movimientos.resources
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Pasaporte.resources
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Reportes.resources
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.MenuCiudadano.resources
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.MenuAdministrativo.resources
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.EmisionPasaporte.resources
+>>>>>>> 6543a97767c107a18fa4540022e2e6dade34f25e
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Bancos.resources
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Citas_Mayores.resources
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Citas_Menores.resources
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Conciliacion.resources
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Control_de_Cheques.resources
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Cuentas_Clientes.resources
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.EmisionPasaporte.resources
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.MenuAdministrativo.resources
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.MenuCiudadano.resources
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Movimientos.resources
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Pasaporte.resources
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Form1.resources
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Reportes.resources
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\AlexS\Desktop\proyecto migracion\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Bancos.resources
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Citas_Mayores.resources
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Citas_Menores.resources
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Conciliacion.resources
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Control_de_Cheques.resources
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Cuentas_Clientes.resources
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.EmisionPasaporte.resources
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.MenuAdministrativo.resources
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.MenuCiudadano.resources
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Movimientos.resources
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Pasaporte.resources
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Form1.resources
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.Reportes.resources
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\linri\Desktop\Proyecto de migracion originall\Proyecto-Migracion\Prototipo2P\CapaVista\obj\Debug\CapaVista.pdb
